@@ -21,3 +21,4 @@ git commit -m "message" is read as git | commit -m | "message"; and
 git status is read as git | status | (no destination).
 
 Comentario desde Mac ;)
+Otro test
